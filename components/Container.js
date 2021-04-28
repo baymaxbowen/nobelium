@@ -1,5 +1,5 @@
 import Header from '@/components/Header'
-import Footer from '@/components/Footer'
+// import Footer from '@/components/Footer'
 import BLOG from '@/blog.config'
 import Head from 'next/head'
 import PropTypes from 'prop-types'
@@ -76,7 +76,7 @@ const Container = ({ children, layout, fullWidth, ...customMeta }) => {
         >
           {children}
         </main>
-        <Footer fullWidth={fullWidth} />
+        {/* <Footer fullWidth={fullWidth} /> */}
       </div>
     </div>
   )
