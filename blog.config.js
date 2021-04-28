@@ -1,9 +1,9 @@
 const BLOG = {
   title: 'CRAIGARY',
   author: 'baymaxbowen',
-  email: 'i@craigary.net',
+  email: 'baymaxbown@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '这可能是一个网站',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
