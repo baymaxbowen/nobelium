@@ -65,8 +65,9 @@ const Header = ({ navBarTitle, fullWidth }) => {
         <div className="flex items-center">
           <Link href="/">
             <div className="h-6">
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50" width="50px" height="50px">
-<g id="surface14067516">
+
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50" width="50px" height="50px">
+<g id="surface13937757">
 <path style="fill-rule:nonzero;fill:rgb(80.000001%,80.000001%,80.000001%);fill-opacity:1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(80.000001%,80.000001%,80.000001%);stroke-opacity:1;stroke-miterlimit:10;" d="M 99.195 68.939227 L 99.195 72.633827 L 88.225321 72.633827 L 88.225321 103.060778 L 83.746154 103.060778 L 83.746154 72.633827 L 72.805005 72.633827 L 72.805005 68.939227 Z M 99.195 68.939227 " transform="matrix(0.273837,0,0,0.273837,1.45,1.45)"/>
 <path style="fill-rule:nonzero;fill:rgb(99.607843%,83.529413%,70.19608%);fill-opacity:1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(80.000001%,80.000001%,80.000001%);stroke-opacity:1;stroke-miterlimit:10;" d="M 22.364451 105.785367 C 22.364451 98.652936 28.141721 92.875666 35.259887 92.875666 C 42.378053 92.875666 48.155323 98.652936 48.155323 105.785367 C 48.155323 112.903533 42.378053 118.680802 35.259887 118.680802 C 28.141721 118.680802 22.364451 112.903533 22.364451 105.785367 Z M 22.364451 105.785367 " transform="matrix(0.273837,0,0,0.273837,1.45,1.45)"/>
 <path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(80.000001%,80.000001%,80.000001%);stroke-opacity:1;stroke-miterlimit:10;" d="M 35.259887 120.406851 C 27.20024 120.406851 20.638403 113.845014 20.638403 105.785367 C 20.638403 97.711455 27.20024 91.163883 35.259887 91.163883 C 43.319534 91.163883 49.881371 97.711455 49.881371 105.785367 C 49.881371 113.845014 43.319534 120.406851 35.259887 120.406851 Z M 35.259887 94.601715 C 29.097466 94.601715 24.076235 99.608681 24.076235 105.785367 C 24.076235 111.947787 29.097466 116.954754 35.259887 116.954754 C 41.422308 116.954754 46.443539 111.947787 46.443539 105.785367 C 46.443539 99.608681 41.422308 94.601715 35.259887 94.601715 Z M 35.259887 94.601715 " transform="matrix(0.273837,0,0,0.273837,1.45,1.45)"/>
@@ -121,6 +122,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(80.000001%,80.000001%,80.000001%);fill-opacity:1;" d="M 28.613281 20.328125 L 28.613281 21.339844 L 25.609375 21.339844 L 25.609375 29.671875 L 24.382812 29.671875 L 24.382812 21.339844 L 21.386719 21.339844 L 21.386719 20.328125 Z M 28.613281 20.328125 "/>
 </g>
 </svg>
+
 
             </div>
           </Link>
